@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abe novan
 - 👀 I’m interested in develover web and develover aplication
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me abenovan@gmail.com
 
