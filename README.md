@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develover 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me abenovan@gmail.com
+- 📫 How to reach me abenovan4@gmail.com
 
 <!---
 abenovan4/abenovan4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
